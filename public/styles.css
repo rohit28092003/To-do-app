@@ -1,0 +1,81 @@
+body {
+  background-image:url("data:image/jpeg;base64,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");
+  padding: 1rem;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: "Architects Daughter", cursive;
+  text-align: center;
+  font-size: 130%;
+}
+
+.container {
+  width: 100%;
+  height: auto;
+  min-height: 500px;
+  max-width: 500px;
+  min-width: 250px;
+  background: #664c5c;
+  background-image: radial-gradient(#c0a1be 7.2%, transparent 0);
+  background-size: 25px 25px;
+  border-radius: 20px;
+  box-shadow: 4px 3px 7px 2px #88648b40;
+  padding: 1rem;
+  box-sizing: border-box;
+  margin-top: 10vh;
+  margin-bottom: 5vh;
+}
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+  
+}
+.heading h1 {
+  transform: rotate(2deg);
+  padding: 0.2rem 1.2rem;
+  border-radius: 20% 5% 20% 5%/5% 20% 25% 20%;
+  background-color: #803880;
+  font-size: 1.5rem;
+}
+
+.form input {
+  box-sizing: border-box;
+  background-color: transparent;
+  padding: 0.7rem;
+  border-bottom-right-radius: 15px 3px;
+  border-bottom-left-radius: 3px 15px;
+  border: solid 3px transparent;
+  border-bottom: dashed 3px #241723;
+  font-family: "Architects Daughter", cursive;
+  font-size: 1rem;
+  color: whitesmoke;
+  width: 70%;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 0;
+  border: none;
+  font-family: "Architects Daughter", cursive;
+  text-decoration: none;
+  padding-bottom: 3px;
+  border-radius: 5px;
+  background-color: #321030;
+}
+button span {
+  background: #e3bbdc;
+  display: block;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  border: 2px solid hsl(302, 90%, 16%);
+}
+
+li {
+  text-align: left;
+  position: relative;
+  padding: 0.5rem;
+}
